@@ -56,15 +56,12 @@ ChatGPT：
 - Imagens geradas via ChatGPT
 - Editado via Canva
 
-<p align="center">
-<img width="100" src="https://github.com/user-attachments/assets/840681ab-e1da-4eb5-8ab9-b2955926cb40">
-<p align="center">
+<img width="150" src="https://github.com/user-attachments/assets/840681ab-e1da-4eb5-8ab9-b2955926cb40">
 
-<p align="center">
-   [LINK PARA ACESSAR O EBOOK](https://github.com/maryinthebox/ebook/blob/d5849b0bb1319fc45af02b4c85fab4b500e4be4a/Desperte_Sua_Melhor_Vers%C3%A3o.pdf)
+[LINK PARA ACESSAR O EBOOK](Https://github.com/maryinthebox/ebook/blob/d5849b0bb1319fc45af02b4c85fab4b500e4be4a/Desperte_Sua_Melhor_Vers%C3%A3o.pdf)
 
     
-    ## 👨‍💻 Aluna
+    
 
 <p>
     <img 
