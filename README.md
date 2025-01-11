@@ -56,9 +56,10 @@ ChatGPT：
 - Imagens geradas via ChatGPT
 - Editado via Canva
 
+<p align="center">
 <img width="100" src="https://github.com/user-attachments/assets/840681ab-e1da-4eb5-8ab9-b2955926cb40">
-
-- Ebook disponível em: 
+<p align="center">
+- Ebook disponível em: https://github.com/maryinthebox/ebook/blob/d5849b0bb1319fc45af02b4c85fab4b500e4be4a/Desperte_Sua_Melhor_Vers%C3%A3o.pdf
 
 ## 👨‍💻 Aluna
 
@@ -67,7 +68,7 @@ ChatGPT：
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/maryinthebox/ebook/blob/4a47e955d73deb53807a36a637e6460c69b9e1f6/joinha.png"
+      src="https://github.com/user-attachments/assets/4c6c92e2-103b-40c6-a38f-3bdf3f2f8904"
     />
 
 </p>
